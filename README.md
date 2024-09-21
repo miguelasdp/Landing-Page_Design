@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Esta landing page foi desenvolvida como forma de estudos, focando mais na responsividade em relação ao tamanho de tela do usuário
+Esta landing page foi desenvolvida como forma de estudo, focando mais na responsividade em relação ao tamanho de tela do usuário
 
 ## Tecnologias Utilizadas
 
