@@ -34,4 +34,4 @@ Você pode visualizar o mockup do site no Figma através do [link do mockup](htt
 
 ## Link do Projeto Hospedado
 
-Acesse o projeto hospedado através do [link da landing page](https://landing-page-design-phi.vercel.app/).
+Acesse o projeto hospedado através do [link da landing page](https://landing-page-design-miguelasdps-projects.vercel.app/).
