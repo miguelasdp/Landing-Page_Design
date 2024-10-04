@@ -1,17 +1,32 @@
-# Landing Page Design
+# Projeto Landing Page de Design de Interiores
 
-## Visão Geral
+## Descrição
+Este projeto é uma landing page para um serviço de design de interiores, oferecendo informações sobre estética, mobiliário e layout para inspirar e elevar a experiência de vida dos usuários.
 
-Esta landing page foi desenvolvida como forma de estudo, focando mais na responsividade em relação ao tamanho de tela do usuário
+## Funcionalidades
+
+- **Seção de Título:** Apresenta uma mensagem inspiradora sobre design de interiores.
+
+## Estrutura da Página
+
+### 1. Cabeçalho
+- **Navegação:** Links para diferentes seções da página.
+
+### 2. Seção Principal
+- **Título:** "Aesthetics. Furnishings. Layout" - Destaca os principais aspectos do design de interiores.
+- **Descrição:** "Redefine Your Living Experience with Thoughtfully Designed Spaces That Inspire and Elevate Your Everyday Life" - Uma breve descrição que inspira os visitantes a considerar o design de interiores.
+
+### 3. Seção de Cartões
+- **Cartões de Conteúdo:** Exibe diferentes aspectos e exemplos de design de interiores.
 
 ## Tecnologias Utilizadas
 
-- **HTML5 & CSS3:** Para a estrutura e estilização da página.
+- **HTML5 & CSS3:** Para a estrutura, responsividade e estilização da página.
 
-## Mockup do Site (Figma)
+## Mockup do Site
 
-<a href="https://www.figma.com/design/N5wxAJLwuWUjXzJ3EeFoaD/LANDING_DESIGN?node-id=0-1&node-type=canvas&t=ZYA9iAL0Jh1XModb-0" target="_blank">Mockup Site</a>
+Você pode visualizar o mockup do site no Figma através do [link do mockup](https://www.figma.com/design/N5wxAJLwuWUjXzJ3EeFoaD/LANDING_DESIGN?node-id=0-1&node-type=canvas&t=ZYA9iAL0Jh1XModb-0).
 
-## Link do Projeto Hospedado:
+## Link do Projeto Hospedado
 
-<a href="https://landing-page-design-phi.vercel.app/" target="_blank">Landing Page Design</a>
+Acesse o projeto hospedado através do [link da landing page](https://landing-page-design-phi.vercel.app/).
