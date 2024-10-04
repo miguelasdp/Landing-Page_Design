@@ -18,6 +18,11 @@ Este projeto é uma landing page para um serviço de design de interiores, ofere
 
 ### 3. Seção de Cartões
 - **Cartões de Conteúdo:** Exibe diferentes aspectos e exemplos de design de interiores.
+# Landing Page Design
+
+## Visão Geral
+
+Esta landing page foi desenvolvida como forma de estudo, focando na responsividade em relação ao tamanho de tela do usuário
 
 ## Tecnologias Utilizadas
 
